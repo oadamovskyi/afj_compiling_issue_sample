@@ -1,0 +1,25 @@
+{
+  "name": "afj_compiling_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oadamovskyi/afj_compiling_issue_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oadamovskyi/afj_compiling_issue_sample/issues"
+  },
+  "homepage": "https://github.com/oadamovskyi/afj_compiling_issue_sample#readme",
+  "dependencies": {
+    "@aries-framework/core": "^0.3.2",
+    "@aries-framework/node": "^0.3.2",
+    "ts-node": "^10.9.1",
+    "yarn": "^1.22.19"
+  }
+}
